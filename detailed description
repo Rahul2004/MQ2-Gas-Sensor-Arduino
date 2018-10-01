@@ -1,0 +1,19 @@
+As I currently reside in India, most of the houses here have a LPG -Gas stove system for cooking food and various other kitchen activities.
+There are LPG cylinders which are used as a fuel source for the gas stove.
+
+Many a times, disastrous accidents take place due to leakage of these cylinders, in these situations we must administer proper care and safety.
+
+Keeping this in mind, in today’s post I have worked on MQ-2 gas sensor(FC-22) powered and interfaced with arduino uno.
+
+Here is its datasheet :-
+http://www.allelectronics.com/mas_assets/theme/allelectronics/spec/GS-29.pdf
+
+Now, First of all you will require these components :-
+
+Arduino UNO or Genuino UNO
+Breadboard
+LED’s
+Resistors
+Jumper wires
+MQ-2 gas sensor.
+Buzzer
